@@ -1,94 +1,92 @@
-{
-    "Science-Questions": [
-        {
-            "QID": "1",
-            "question": "What is the biggest planet in our solar system?",
-            "answer-1": "Earth",
-            "answer-2": "Jupiter",
-            "answer-3": "Mars",
-            "answer-4": "Neptune",
-            "correct": "Jupiter"
-        },
-        {
-            "QID": "2",
-            "question": "The fear of what animal is arachnophobia?",
-            "answer-1": "Spiders",
-            "answer-2": "Cows",
-            "answer-3": "Owls",
-            "answer-4": "Whales",
-            "correct": "Spiders"
-        },
-        {
-            "QID": "3",
-            "question": "What famous scientist was awarded the 1921 Nobel Prize in Physics for his work on theoretical physics?",
-            "answer-1": "George Beadle",
-            "answer-2": "Linus Pauling",
-            "answer-3": "Isaac Newton",
-            "answer-4": "Albert Einstein",
-            "correct": "Albert Einstein"
-        },
-        {
-            "QID": "4",
-            "question": "Pure water has a PH of about",
-            "answer-1": "7.0",
-            "answer-2": "6.0",
-            "answer-3": "9.0",
-            "answer-4": "4.0",
-            "correct": "7.0"
-        },
-        {
-            "QID": "5",
-            "question": "What is the highest mountian on Earth?",
-            "answer-1": "Mount Fuji",
-            "answer-2": "Mount Sanford",
-            "answer-3": "Mount Everest",
-            "answer-4": "Mount Kilimanjaro",
-            "correct": "Mount Everest"
-        },
-        {
-            "QID": "6",
-            "question": "What is the name of the long appendage that hangs off an elephants face?",
-            "answer-1": "Fin",
-            "answer-2": "Trunk",
-            "answer-3": "Giblet",
-            "answer-4": "Tail",
-            "correct": "Trunk"
-        },
-        {
-            "QID": "7",
-            "question": "Where can flamingos NOT be found?",
-            "answer-1": "Americas",
-            "answer-2": "Africa",
-            "answer-3": "Middle East",
-            "answer-4": "Northern Europe",
-            "correct": "Northern Europe"
-        },
-        {
-            "QID": "8",
-            "question": "What compound makes plants green?",
-            "answer-1": "Chlorophyll",
-            "answer-2": "Salt",
-            "answer-3": "Potasium",
-            "answer-4": "Nitrogen",
-            "correct": "Chlorophyll"
-        },
-        {
-            "QID": "9",
-            "question": "What is the name of the star closest to earth besides the sun?",
-            "answer-1": "Barnard's Star",
-            "answer-2": "Siruis",
-            "answer-3": "Epsilon Indi",
-            "answer-4": "Alpha Centauri",
-            "correct": "Alpha Centauri"
-        },
-        {
-            "QID": "10",
-            "question": "Molten rock that comes out of a volcano is known as what?",
-            "answer-1": "Magma",
-            "answer-2": "Lava",
-            "answer-3": "Sedimentary",
-            "answer-4": "Metamorphic",
-            "correct": "Lava"
-        }
-    ]
-}
+[
+    {
+        "QID": "1",
+        "question": "What is the biggest planet in our solar system?",
+        "answer-1": "Earth",
+        "answer-2": "Jupiter",
+        "answer-3": "Mars",
+        "answer-4": "Neptune",
+        "correct": "Jupiter"
+    },
+    {
+        "QID": "2",
+        "question": "The fear of what animal is arachnophobia?",
+        "answer-1": "Spiders",
+        "answer-2": "Cows",
+        "answer-3": "Owls",
+        "answer-4": "Whales",
+        "correct": "Spiders"
+    },
+    {
+        "QID": "3",
+        "question": "What famous scientist was awarded the 1921 Nobel Prize in Physics for his work on theoretical physics?",
+        "answer-1": "George Beadle",
+        "answer-2": "Linus Pauling",
+        "answer-3": "Isaac Newton",
+        "answer-4": "Albert Einstein",
+        "correct": "Albert Einstein"
+    },
+    {
+        "QID": "4",
+        "question": "Pure water has a PH of about",
+        "answer-1": "7.0",
+        "answer-2": "6.0",
+        "answer-3": "9.0",
+        "answer-4": "4.0",
+        "correct": "7.0"
+    },
+    {
+        "QID": "5",
+        "question": "What is the highest mountian on Earth?",
+        "answer-1": "Mount Fuji",
+        "answer-2": "Mount Sanford",
+        "answer-3": "Mount Everest",
+        "answer-4": "Mount Kilimanjaro",
+        "correct": "Mount Everest"
+    },
+    {
+        "QID": "6",
+        "question": "What is the name of the long appendage that hangs off an elephants face?",
+        "answer-1": "Fin",
+        "answer-2": "Trunk",
+        "answer-3": "Giblet",
+        "answer-4": "Tail",
+        "correct": "Trunk"
+    },
+    {
+        "QID": "7",
+        "question": "Where can flamingos NOT be found?",
+        "answer-1": "Americas",
+        "answer-2": "Africa",
+        "answer-3": "Middle East",
+        "answer-4": "Northern Europe",
+        "correct": "Northern Europe"
+    },
+    {
+        "QID": "8",
+        "question": "What compound makes plants green?",
+        "answer-1": "Chlorophyll",
+        "answer-2": "Salt",
+        "answer-3": "Potasium",
+        "answer-4": "Nitrogen",
+        "correct": "Chlorophyll"
+    },
+    {
+        "QID": "9",
+        "question": "What is the name of the star closest to earth besides the sun?",
+        "answer-1": "Barnard's Star",
+        "answer-2": "Siruis",
+        "answer-3": "Epsilon Indi",
+        "answer-4": "Alpha Centauri",
+        "correct": "Alpha Centauri"
+    },
+    {
+        "QID": "10",
+        "question": "Molten rock that comes out of a volcano is known as what?",
+        "answer-1": "Magma",
+        "answer-2": "Lava",
+        "answer-3": "Sedimentary",
+        "answer-4": "Metamorphic",
+        "correct": "Lava"
+    }
+]

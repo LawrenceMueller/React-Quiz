@@ -1,94 +1,92 @@
-{
-    "History-Questions": [
-        {
-            "QID": "1",
-            "question": "Which is considered as oldest civilization of the world ?",
-            "answer-1": "Chinese",
-            "answer-2": "Egyptain",
-            "answer-3": "Harappan",
-            "answer-4": "Mesopotamian",
-            "correct": "Mesopotamian"
-        },
-        {
-            "QID": "2",
-            "question": "Who is considered as the master of Greek comedy?",
-            "answer-1": "Pluto",
-            "answer-2": "Aristophanes",
-            "answer-3": "Aeschylus",
-            "answer-4": "Sophocles",
-            "correct": "Aristophanes"
-        },
-        {
-            "QID": "3",
-            "question": "Which among following is called: Gift of the Nile?",
-            "answer-1": "China",
-            "answer-2": "India",
-            "answer-3": "Egypt",
-            "answer-4": "Iraq",
-            "correct": "Egypt"
-        },
-        {
-            "QID": "4",
-            "question": "In which country Aztec civilization was originated?",
-            "answer-1": "Mexico",
-            "answer-2": "Peru",
-            "answer-3": "Panama",
-            "answer-4": "Columbia",
-            "correct": "Mexico"
-        },
-        {
-            "QID": "5",
-            "question": "What was the name of the atom bomb dropped by USA on Hiroshima in Japan during the second world war?",
-            "answer-1": "Big Devil",
-            "answer-2": "Little Boy",
-            "answer-3": "Big Boy",
-            "answer-4": "Little Fly",
-            "correct": "Little Boy"
-        },
-        {
-            "QID": "6",
-            "question": "Who among the following empasized the 'Five Relationships'?",
-            "answer-1": "Confucius",
-            "answer-2": "Mahavira",
-            "answer-3": "Buddha",
-            "answer-4": "Lao-tse",
-            "correct": "Confucius"
-        },
-        {
-            "QID": "7",
-            "question": "The historical monument Al Khazneh is located in which city?",
-            "answer-1": "Tehran",
-            "answer-2": "Baghdad",
-            "answer-3": "Petra",
-            "answer-4": "Giza",
-            "correct": "Petra"
-        },
-        {
-            "QID": "8",
-            "question": "The Peloponnesian war was faught between who and who?",
-            "answer-1": "Athens and Asia Minor",
-            "answer-2": "Athens and Iran",
-            "answer-3": "Sparta and Iran",
-            "answer-4": "Sparta and Athens",
-            "correct": "Sparta and Athens"
-        },
-        {
-            "QID": "9",
-            "question": "Russian revolutionary, who founded the Communist Party was?",
-            "answer-1": "Karl Marx",
-            "answer-2": "Lenin",
-            "answer-3": "Stalin",
-            "answer-4": "Trotsky",
-            "correct": "Lenin"
-        },
-        {
-            "QID": "10",
-            "question": "Who said: Man is a political animal?",
-            "answer-1": "Aristotle",
-            "answer-2": "Karl Marx",
-            "answer-3": "Lenin",
-            "answer-4": "Plato",
-            "correct": "Aristotle"
-        }
-    ]
-}
+[
+    {
+        "QID": "1",
+        "question": "Which is considered as oldest civilization of the world ?",
+        "answer-1": "Chinese",
+        "answer-2": "Egyptain",
+        "answer-3": "Harappan",
+        "answer-4": "Mesopotamian",
+        "correct": "Mesopotamian"
+    },
+    {
+        "QID": "2",
+        "question": "Who is considered as the master of Greek comedy?",
+        "answer-1": "Pluto",
+        "answer-2": "Aristophanes",
+        "answer-3": "Aeschylus",
+        "answer-4": "Sophocles",
+        "correct": "Aristophanes"
+    },
+    {
+        "QID": "3",
+        "question": "Which among following is called: Gift of the Nile?",
+        "answer-1": "China",
+        "answer-2": "India",
+        "answer-3": "Egypt",
+        "answer-4": "Iraq",
+        "correct": "Egypt"
+    },
+    {
+        "QID": "4",
+        "question": "In which country Aztec civilization was originated?",
+        "answer-1": "Mexico",
+        "answer-2": "Peru",
+        "answer-3": "Panama",
+        "answer-4": "Columbia",
+        "correct": "Mexico"
+    },
+    {
+        "QID": "5",
+        "question": "What was the name of the atom bomb dropped by USA on Hiroshima in Japan during the second world war?",
+        "answer-1": "Big Devil",
+        "answer-2": "Little Boy",
+        "answer-3": "Big Boy",
+        "answer-4": "Little Fly",
+        "correct": "Little Boy"
+    },
+    {
+        "QID": "6",
+        "question": "Who among the following empasized the 'Five Relationships'?",
+        "answer-1": "Confucius",
+        "answer-2": "Mahavira",
+        "answer-3": "Buddha",
+        "answer-4": "Lao-tse",
+        "correct": "Confucius"
+    },
+    {
+        "QID": "7",
+        "question": "The historical monument Al Khazneh is located in which city?",
+        "answer-1": "Tehran",
+        "answer-2": "Baghdad",
+        "answer-3": "Petra",
+        "answer-4": "Giza",
+        "correct": "Petra"
+    },
+    {
+        "QID": "8",
+        "question": "The Peloponnesian war was faught between who and who?",
+        "answer-1": "Athens and Asia Minor",
+        "answer-2": "Athens and Iran",
+        "answer-3": "Sparta and Iran",
+        "answer-4": "Sparta and Athens",
+        "correct": "Sparta and Athens"
+    },
+    {
+        "QID": "9",
+        "question": "Russian revolutionary, who founded the Communist Party was?",
+        "answer-1": "Karl Marx",
+        "answer-2": "Lenin",
+        "answer-3": "Stalin",
+        "answer-4": "Trotsky",
+        "correct": "Lenin"
+    },
+    {
+        "QID": "10",
+        "question": "Who said: Man is a political animal?",
+        "answer-1": "Aristotle",
+        "answer-2": "Karl Marx",
+        "answer-3": "Lenin",
+        "answer-4": "Plato",
+        "correct": "Aristotle"
+    }
+]

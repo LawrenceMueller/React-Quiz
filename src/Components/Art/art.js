@@ -1,12 +1,6 @@
 import React from 'react';
 import './art.css';
 
-import { bounce } from 'react-animations';
-import styled, { keyframes } from 'styled-components';
-
-const Bounce = styled.div`
-    animation: 2s ${keyframes`${bounce}`} infinite;`;
-
 export default class Art extends React.Component {
     constructor(props) {
         super(props);
@@ -15,12 +9,10 @@ export default class Art extends React.Component {
 
     render() {
         return (
-            <div className="container">
+            <div className="container-art">
                 <div className="art-content">
-                    <Bounce>
-                        <h1>Art</h1>
-                    </Bounce>
-                    <div className="btn" onClick={this.props.backFromArt}>Art</div>
+                    <h1 className="title-art">Art</h1>
+                    <div className="btn-art" onClick={this.props.backFromArt}>Home</div>
                 </div>
             </div>
         );

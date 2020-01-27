@@ -1,27 +1,24 @@
 import React from 'react';
 import './science.css';
 
-import { bounce } from 'react-animations';
-import styled, { keyframes } from 'styled-components';
-
-const Bounce = styled.div`
-    animation: 2s ${keyframes`${bounce}`} infinite;`;
+import Data from '../../Questions/science-questions.json';
 
 export default class Science extends React.Component {
     constructor(props) {
         super(props);
-        this.state = {};
+        this.state = {
+            question_count: 0
+        };
     }
 
     render() {
+        const current_question = Data[this.state.question_count];
+        console.log(current_question);
         return (
-            <div className="container">
-                <div className="science-content">
-                    <Bounce>
-                        <h1>Science</h1>
-                    </Bounce>
-                    <div className="btn" onClick={this.props.backFromScience}>Home</div>
-                </div>
+            <div className="container-science">
+                <h1 className="title-science">Science</h1>
+                <p>{current_question.question}</p>
+                <div className="btn-science" onClick={this.props.backFromScience}>Home</div>
             </div>
         );
     }
