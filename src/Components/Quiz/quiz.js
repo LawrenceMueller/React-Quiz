@@ -16,7 +16,8 @@ export default class Quiz extends React.Component {
         this.state = {
             science: false,
             history: false,
-            art: false
+            art: false,
+            hingeAnimation: false
         };
         this.handleScience = this.handleScience.bind(this);
         this.handleHistory = this.handleHistory.bind(this);
@@ -25,23 +26,28 @@ export default class Quiz extends React.Component {
 
     handleScience() {
         this.setState({
-            science: !this.state.science
+            science: !this.state.science,
+            hingeAnimation: !this.state.hingeAnimation 
         });
     }
 
     handleHistory() {
         this.setState({
-            history: !this.state.history
+            history: !this.state.history,
+            hingeAnimation: !this.state.hingeAnimation 
         });
     }
 
     handleArt() {
         this.setState({
-            art: !this.state.art
+            art: !this.state.art,
+            hingeAnimation: !this.state.hingeAnimation 
         });
     }
 
     render() {
+        const hinge = this.state.hingeAnimation;
+
         if (this.state.science === true) {
             return <Science backFromScience = {this.handleScience}/>;
         }
