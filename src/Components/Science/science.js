@@ -17,8 +17,12 @@ export default class Science extends React.Component {
         return (
             <div className="container-science">
                 <h1 className="title-science">Science</h1>
-                <p>{current_question.question}</p>
-                <div className="btn-science" onClick={this.props.backFromScience}>Home</div>
+                <p className="question-science">{current_question.question}</p>
+                <div className="btn-science" >{current_question.answer1}</div>
+                <div className="btn-science" >{current_question.answer2}</div>
+                <div className="btn-science" >{current_question.answer3}</div>
+                <div className="btn-science" >{current_question.answer4}</div>
+                <div className="btn-science" id="btn-home-science" onClick={this.props.backFromScience}>Home</div>
             </div>
         );
     }
