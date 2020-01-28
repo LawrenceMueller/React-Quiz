@@ -19,7 +19,6 @@ export default class Quiz extends React.Component {
             history: false,
             art: false,
             hingeAnimation: false,
-            score: 0
         };
         this.handleScience = this.handleScience.bind(this);
         this.handleHistory = this.handleHistory.bind(this);
@@ -55,7 +54,6 @@ export default class Quiz extends React.Component {
             return (
                 <Science
                     backFromScience={this.handleScience}
-                    score={this.state.score}
                 />
             );
         }
@@ -63,7 +61,6 @@ export default class Quiz extends React.Component {
             return (
                 <History
                     backFromHistory={this.handleHistory}
-                    score={this.state.score}
                 />
             );
         }

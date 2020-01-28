@@ -1,16 +1,28 @@
-body {
-    background-color: #0b0c10;
-    box-sizing: border-box;
+*{
     margin: 0;
 }
 
+body {
+    background-color: #0b0c10;
+    box-sizing: border-box;
+}
+
 .title-history {
-    margin: 0;
+    margin: 100px, 0, 0, 0;
     font-family: 'Pacifico', cursive;
-    font-size: 80px;
+    font-size: 60px;
     text-align: center;
     line-height: 1.4;
     color: #66fcf1;
+}
+
+.question-history {
+    margin: 0, 0, 5px, 0;
+    font-size: 25px;
+    text-align: center;
+    line-height: 1.4;
+    color: #c5c6c7;
+    width: 300px;
 }
 
 .btn-history {
@@ -37,6 +49,19 @@ body {
 
 #first-btn-history {
     margin-top: 15px;
+}
+
+#btn-home-history{
+    margin-top: 25px;
+    margin-bottom: 15px;
+    border: 1px solid #45a29e;
+    background: #0b0c10;
+}
+
+#btn-home-history:hover {
+    text-shadow: 0px 0px 6px rgba(255, 255, 255, 1);
+    background: #45a29e;
+    transition: all 0.4s ease 0s;
 }
 
 .container-history {
