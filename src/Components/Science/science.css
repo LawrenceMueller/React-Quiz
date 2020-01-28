@@ -8,9 +8,9 @@ body {
 }
 
 .title-science {
-    margin: 0;
+    margin: 100px, 0, 0, 0;
     font-family: 'Pacifico', cursive;
-    font-size: 80px;
+    font-size: 60px;
     text-align: center;
     line-height: 1.4;
     color: #66fcf1;
@@ -18,7 +18,7 @@ body {
 
 .question-science {
     margin: 0, 0, 5px, 0;
-    font-size: 40px;
+    font-size: 30px;
     text-align: center;
     line-height: 1.4;
     color: #c5c6c7;
@@ -51,7 +51,7 @@ body {
 }
 
 #btn-home-science{
-    margin-top: 50px;
+    margin-top: 25px;
     margin-bottom: 15px;
     border: 1px solid #45a29e;
     background: #0b0c10;
