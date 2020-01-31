@@ -1,6 +1,6 @@
 import React from 'react';
 import './science.css';
-import Quiz from '../Quiz/quiz';
+import ScoreScreen from '../Score-Screen/score_screen';
 
 import Data from '../../Questions/science-questions.json';
 
@@ -37,7 +37,7 @@ export default class Science extends React.Component {
     render() {
         const current_question = Data[this.state.question_count];
         if(Data[this.state.question_count] === undefined){
-            return <Quiz/>
+            return <ScoreScreen player_score={this.state.player_score}/>
         }
         return (
             <div className="container-science">
