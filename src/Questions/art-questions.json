@@ -28,21 +28,21 @@
     },
     {
         "QID": "4",
-        "question": "Italian Baroque art developed primarily for which of the following purposes?",
-        "answer1": "Stimulating interest in the church",
-        "answer2": "Communicating the need for social justice",
-        "answer3": "Entertaining wealthy merchants",
-        "answer4": "Celebrating the architectural styles of classical antiquity",
-        "correct": "Stimulating interest in the church"
+        "question": "The Sream was painted by who?",
+        "answer1": "Edvard Munch",
+        "answer2": "Pablo Picasso",
+        "answer3": "Van Gogh",
+        "answer4": "Claude Monet",
+        "correct": "Edvard Munch"
     },
     {
         "QID": "5",
-        "question": "Which of the following components of Gothic cathedrals would be useful to study in a physics class because it was designed to support outward force?",
-        "answer1": "Portal",
-        "answer2": "Stained Glass Window",
-        "answer3": "Flying Buttress",
-        "answer4": "Clerestory",
-        "correct": "Flying Buttress"
+        "question": "Birth of Venus was painted by who?",
+        "answer1": "Gustav Klimt",
+        "answer2": "Rembrandt",
+        "answer3": "Sandro Botticelli",
+        "answer4": "Van Gogh",
+        "correct": "Sandro Botticelli"
     },
     {
         "QID": "6",
